@@ -1,4 +1,4 @@
 # Glory
 For study.
 Hi,everybody.
-I like node.
+I like code.
